@@ -1,0 +1,14 @@
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\bin\Debug\net6.0\JadenCasingStrings.exe
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\bin\Debug\net6.0\JadenCasingStrings.deps.json
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\bin\Debug\net6.0\JadenCasingStrings.runtimeconfig.json
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\bin\Debug\net6.0\JadenCasingStrings.dll
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\bin\Debug\net6.0\JadenCasingStrings.pdb
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.AssemblyInfoInputs.cache
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.AssemblyInfo.cs
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.csproj.CoreCompileInputs.cache
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.dll
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\refint\JadenCasingStrings.dll
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.pdb
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.genruntimeconfig.cache
+C:\dev\challenges\JadenCasingStrings\JadenCasingStrings\obj\Debug\net6.0\ref\JadenCasingStrings.dll
