@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\challenges\\BitCounting\\BitCounting\\BitCounting.csproj",
-      "projectName": "BitCounting",
-      "projectPath": "C:\\dev\\challenges\\BitCounting\\BitCounting\\BitCounting.csproj",
+      "projectUniqueName": "C:\\dev\\challenges\\BitCounting\\BitCounting\\BitCountin.csproj",
+      "projectName": "BitCountin",
+      "projectPath": "C:\\dev\\challenges\\BitCounting\\BitCounting\\BitCountin.csproj",
       "packagesPath": "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\challenges\\BitCounting\\BitCounting\\obj\\",
       "projectStyle": "PackageReference",

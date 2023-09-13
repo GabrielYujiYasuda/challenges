@@ -1,0 +1,14 @@
+C:\dev\challenges\BitCounting\BitCounting\bin\Debug\net6.0\BitCountin.exe
+C:\dev\challenges\BitCounting\BitCounting\bin\Debug\net6.0\BitCountin.deps.json
+C:\dev\challenges\BitCounting\BitCounting\bin\Debug\net6.0\BitCountin.runtimeconfig.json
+C:\dev\challenges\BitCounting\BitCounting\bin\Debug\net6.0\BitCountin.dll
+C:\dev\challenges\BitCounting\BitCounting\bin\Debug\net6.0\BitCountin.pdb
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.AssemblyInfoInputs.cache
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.AssemblyInfo.cs
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.csproj.CoreCompileInputs.cache
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.dll
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\refint\BitCountin.dll
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.pdb
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\BitCountin.genruntimeconfig.cache
+C:\dev\challenges\BitCounting\BitCounting\obj\Debug\net6.0\ref\BitCountin.dll
